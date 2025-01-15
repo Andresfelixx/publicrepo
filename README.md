@@ -17,9 +17,3 @@ He colaborado en varios proyectos pequeños y personales donde he puesto en prá
 
 ## Conecta conmigo:
 Si quieres saber mas de mi me pueden encontrar en [Facebook](https://www.facebook.com/andresfelipe.parra.7773).
-
-## Habilidades adicionales:
-- Trabajo con **herramientas de control de versiones** como Git.
-- Experiencia en la **optimización de seguridad web** utilizando Cloudflare.
-- Conocimiento de **prácticas de desarrollo ágil** y metodologías como Scrum.
-
