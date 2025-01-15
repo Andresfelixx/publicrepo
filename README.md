@@ -16,4 +16,4 @@ Soy un **Desarrollador Web Junior** con 1 año de experiencia en el desarrollo d
 He colaborado en varios proyectos pequeños y personales donde he puesto en práctica mis habilidades. Aunque todavía no tengo experiencia laboral formal, me esfuerzo por seguir aprendiendo y mejorando mis habilidades técnicas.
 
 ## Conecta conmigo:
-Si quieres saber mas de mi me pueden encontrar en [Facebook](https://www.facebook.com/andresfelipe.parra.7773).
+Si quieres saber mas de mi pueden encontrarme en [Facebook](https://www.facebook.com/andresfelipe.parra.7773).
